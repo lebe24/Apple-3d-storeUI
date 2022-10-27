@@ -1,7 +1,7 @@
 # Apple 3d store
 
 
-<img src="apple.gif"/>
+<img alt="Version" src="./apple.gif" />
 
 A new Flutter project.
 
