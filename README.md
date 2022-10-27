@@ -1,8 +1,7 @@
 # Apple 3d store
 
-<video width="320" height="240" controls>
-  <source src="./apple.mp4" type="video/mp4">
-</video>
+
+<img src="apple.gif"/>
 
 A new Flutter project.
 
